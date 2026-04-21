@@ -15,3 +15,14 @@ I'm a 1st-year engineering student and developer with a strong focus on Artifici
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Let's Connect!
+### 🚀 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-raj-a63a85371?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:ayushraj28.08.2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
