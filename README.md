@@ -2,9 +2,6 @@
 
 I'm a 1st-year engineering student and developer with a strong focus on Artificial Intelligence, Python, and building smart solutions. I love turning complex data into actionable insights and intelligent web applications.
 
-### 🔭 Currently Working On
-* **AI Financial Advisor:** Building an intelligent platform to help users make smarter financial decisions.
-* Participating in hackathons to rapidly prototype new ideas and build under pressure.
 
 ### 🛠️ My Tech Stack
 
