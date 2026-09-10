@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush! 👋🤖
 
-I'm a 1st-year engineering student and developer with a strong focus on Artificial Intelligence, Python, and building smart solutions. I love turning complex data into actionable insights and intelligent web applications.
+I'm a 2nd-year engineering student and developer with a strong focus on Artificial Intelligence, Python, and building smart solutions. I love turning complex data into actionable insights and intelligent web applications.
 
 
 ### 🛠️ My Tech Stack
