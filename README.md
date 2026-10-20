@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f2fe&height=210&section=header&text=AYUSH%20RAJ&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Builder&descAlignY=68&descSize=18" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=85&lines=%3E+B.Tech+Computer+Science+Undergraduate+(Class+of+2029);%3E+Google+Student+Ambassador+%7C+MyCareernet+Campus+Ambassador;%3E+Architecting+Autonomous+AI+Pipelines+%26+Edge+IoT+Systems;%3E+ISRO+BAH+%7C+Smart+India+Hackathon+%7C+Chandigarh+Police+Hackathon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=%3E+B.Tech+CSE+Undergrad+%40+CGC+University+(Class+of+2029);%3E+Google+Student+Ambassador+%7C%3E+Architecting+AI+Pipelines%2C+IoT+Systems+%26+Full-Stack+Web+Apps;%3E+ISRO+BAH+%7C+Smart+India+Hackathon+%7C+Chandigarh+Police+Hackathon" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ayushraj623&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ayushraj623?label=FOLLOWERS&color=302b63&logo=github&style=for-the-badge" alt="Followers" />
     <img src="https://img.shields.io/github/stars/ayushraj623?label=TOTAL+STARS&color=00f2fe&logo=starship&style=for-the-badge" alt="Stars" />
-    <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-00FF66?style=for-the-badge&logo=probot&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%203D-00FF66?style=for-the-badge&logo=probot&logoColor=black" alt="Status" />
   </p>
 </div>
 
@@ -19,10 +19,10 @@
 
 ### ⚡ `whoami` — System Overview
 
-- 🎓 **Education:** B.Tech Computer Science Undergraduate, Mohali (Class of 2029)
-- 🌐 **Leadership & Community:** Google Student Ambassador | MyCareernet Campus Ambassador | SIH Coordinator
-- 🔭 **Core Competencies:** Machine Learning, Computer Vision, Edge IoT Architecture, Full-Stack Development
-- ⚡ **Off-Duty:** Tactical Chess ♟️, Sci-Fi Literature 📚, Rapid Hackathon Prototyping 🚀
+- 🎓 **Education:** B.Tech CSE @ CGC University, Mohali (Class of 2029)
+- 🌐 **Leadership:** Google Student Ambassador | GeeksforGeeks Campus Mantri | MyCareernet Ambassador | SIH Coordinator
+- 🔭 **Focus Areas:** Machine Learning, Computer Vision, Edge IoT (ESP32), Full-Stack Web Apps
+- ⚡ **Off-Duty:** Tactical Chess ♟️, Comic Books 📚, Hackathon Sprints 🚀
 
 <br clear="both"/>
 
