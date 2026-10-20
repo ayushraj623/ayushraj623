@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f2fe&height=210&section=header&text=AYUSH%20RAJ&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Builder&descAlignY=68&descSize=18" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=%3E+B.Tech+CSE+Undergrad+%40+CGC+University+(Class+of+2029);%3E+Google+Student+Ambassador+%7C%3E+Architecting+AI+Pipelines%2C+IoT+Systems+%26+Full-Stack+Web+Apps;%3E+ISRO+BAH+%7C+Smart+India+Hackathon+%7C+Chandigarh+Police+Hackathon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=85&lines=%3E+B.Tech+CSE+Undergraduate+%40+CGC+University+(Class+of+2029);%3E+Google+Student+Ambassador+%7C+Architecting+AI+Pipelines%2C+IoT+Systems+%26+Full-Stack+Web+Apps;%3E+ISRO+BAH+%7C+Smart+India+Hackathon+%7C+Chandigarh+Police+Hackathon" alt="Typing SVG" />
   </a>
 
   <p align="center">
