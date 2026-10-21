@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ayush Raj**, a Computer Science undergraduate interested in building intelligent applications and practical engineering solutions.
+Hi, I'm **Ayush Raj**, a Computer Science undergraduate interested in building intelligent applications and practical engineering solutions
 
 - 🎓 B.Tech Computer Science — Class of 2029
 - 🌐 Google Student Ambassador
