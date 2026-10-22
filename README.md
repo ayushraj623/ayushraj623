@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f2fe&height=220&section=header&text=AYUSH%20RAJ&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18" width="100%" alt="Ayush Rajheader"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f2fe&height=220&section=header&text=AYUSH%20RAJ&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18" width="110%" alt="Ayush Raj header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+%7C+Class+of+2029;Building+AI+%26+Computer+Vision+Projects;Exploring+IoT+%26+Full-Stack+Development;Learn.+Build.+Innovate." alt="Typing animation"/>
 
