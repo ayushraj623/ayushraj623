@@ -19,9 +19,9 @@ Hi, I'm **Ayush Raj**, a Computer Science undergraduate interested in building i
 
 - 🎓 B.Tech Computer Science — Class of 2029
 - 🌐 Google Student Ambassador
-- 🤖 Interested in AI, Machine Learning and Computer Vision
-- ⚙️ Exploring IoT, backend development and full-stack technologies
-- 🚀 Interested in hackathons, problem-solving and collaborative projects
+- 🤖 Interested in AI, Machine Learning and Computer Vision.
+- ⚙️ Exploring IoT, backend development and full-stack technologies.
+- 🚀 Interested in hackathons, problem-solving and collaborative projects.
 
 ---
 
