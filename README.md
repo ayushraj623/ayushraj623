@@ -21,7 +21,7 @@ Hi, I'm **Ayush Raj**, a Computer Science undergraduate interested in building i
 - 🌐 Google Student Ambassador
 - 🤖 Interested in AI, Machine Learning and Computer Vision.
 - ⚙️ Exploring IoT, backend development and full-stack technologies.
-- 🚀 Interested in hackathons, problem-solving and collaborative projects.
+- 🚀 Interested in hackathons, problem-solving and collaborative projects
 
 ---
 
