@@ -1,16 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f0c29"/>
       <stop offset="0.5" stop-color="#302b63"/>
-      <stop offset="1" stop-color="#00a8c6"/>
+      <stop offset="1" stop-color="#0a2540"/>
     </linearGradient>
+
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="450" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00f2fe"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+      <animate attributeName="x1" values="0;900" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="450;1350" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f2fe" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00f2fe" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#00f2fe" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f2fe" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#00f2fe" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+
+    <clipPath id="frame">
+      <rect width="900" height="240" rx="14"/>
+    </clipPath>
+
+    <clipPath id="typed">
+      <rect x="0" y="150" height="40" width="0">
+        <animate attributeName="width" values="0;900;900;0" keyTimes="0;0.35;0.9;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
-  <rect width="900" height="220" rx="12" fill="url(#bg)"/>
-  <circle cx="120" cy="50" r="2" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
-  <circle cx="780" cy="70" r="2" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
-  <circle cx="300" cy="180" r="2" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="700" cy="170" r="2" fill="#fff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
-  <text x="450" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="6" fill="#ffffff">AYUSH RAJ</text>
-  <text x="450" y="155" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#bff6ff">AI &amp; Computer Vision | Full-Stack Developer</text>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="240" fill="url(#bg)"/>
+
+    <!-- moving grid -->
+    <g stroke="#00f2fe" stroke-opacity="0.08" stroke-width="1">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="40 0" dur="4s" repeatCount="indefinite"/>
+        <path d="M-40 0V240M0 0V240M40 0V240M80 0V240M120 0V240M160 0V240M200 0V240M240 0V240M280 0V240M320 0V240M360 0V240M400 0V240M440 0V240M480 0V240M520 0V240M560 0V240M600 0V240M640 0V240M680 0V240M720 0V240M760 0V240M800 0V240M840 0V240M880 0V240"/>
+      </g>
+      <path d="M0 40H900M0 80H900M0 120H900M0 160H900M0 200H900"/>
+    </g>
+
+    <!-- scan light -->
+    <rect x="-150" y="0" width="150" height="240" fill="url(#scan)">
+      <animate attributeName="x" values="-150;900" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- floating particles -->
+    <circle cx="90" cy="60" r="3" fill="#00f2fe">
+      <animate attributeName="cy" values="60;40;60" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="190" r="2" fill="#ffffff">
+      <animate attributeName="cy" values="190;170;190" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="35" r="2" fill="#a855f7">
+      <animate attributeName="cy" values="35;55;35" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="45" r="4" fill="#a855f7">
+      <animate attributeName="cy" values="45;25;45" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.2;1" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="170" r="3" fill="#00f2fe">
+      <animate attributeName="cy" values="170;190;170" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="70" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- corner brackets -->
+    <g fill="none" stroke="#00f2fe" stroke-width="2" stroke-opacity="0.7">
+      <path d="M20 44V20H44"/>
+      <path d="M856 20H880V44"/>
+      <path d="M20 196V220H44"/>
+      <path d="M880 196V220H856"/>
+    </g>
+
+    <!-- name glow -->
+    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="10" fill="#00f2fe" filter="url(#glow)">
+      AYUSH RAJ
+      <animate attributeName="opacity" values="0.35;0.8;0.35" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- name -->
+    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="10" fill="url(#nameGrad)">
+      AYUSH RAJ
+    </text>
+
+    <!-- divider -->
+    <rect x="450" y="132" width="0" height="3" rx="1.5" fill="#00f2fe">
+      <animate attributeName="width" values="0;360;360;0" keyTimes="0;0.3;0.9;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="450;270;270;450" keyTimes="0;0.3;0.9;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- typed subtitle -->
+    <g clip-path="url(#typed)">
+      <text x="450" y="172" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="21" font-weight="700" fill="#bff6ff">AI &amp; Computer Vision  |  IoT  |  Full-Stack Developer</text>
+    </g>
+
+    <!-- bottom wave -->
+    <path fill="url(#wave)" d="M0 205 C150 185 300 225 450 205 S750 185 900 205 L900 240 L0 240 Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0 205 C150 185 300 225 450 205 S750 185 900 205 L900 240 L0 240 Z;
+                M0 205 C150 225 300 185 450 205 S750 225 900 205 L900 240 L0 240 Z;
+                M0 205 C150 185 300 225 450 205 S750 185 900 205 L900 240 L0 240 Z"/>
+    </path>
+  </g>
 </svg>
