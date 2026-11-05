@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/assets/antigravity.svg" width="100%" alt="Anti-gravity animated hero with orbiting tech stack"/>
+<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/.github/workflows/assets/antigravity.svg" width="100%" alt="Anti-gravity animated hero with orbiting tech stack"/>
 
 <br/>
 
