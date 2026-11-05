@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="./assets/antigravity.svg" width="100%" alt="Anti-gravity animated hero with orbiting tech stack"/>
+<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/assets/antigravity.svg" width="100%" alt="Anti-gravity animated hero with orbiting tech stack"/>
 
 <br/>
 
@@ -58,7 +58,7 @@ Hi, I'm **Ayush Raj**, a Computer Science undergraduate who builds intelligent s
 <tr>
 <td width="50%" valign="top">
 
-### 💧 [AquaIQ — Smart Irrigation](https://github.com/ayushraj623/REPO-NAME)
+### 💧 AquaIQ — Smart Irrigation
 
 Real-time IoT irrigation that combines live sensor data with machine learning to automate watering decisions.
 
@@ -67,7 +67,7 @@ Real-time IoT irrigation that combines live sensor data with machine learning to
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [Ayushman AI](https://github.com/ayushraj623/REPO-NAME)
+### 🏥 Ayushman AI
 
 AI-assisted healthcare and emergency response: triage, location-aware routing and multilingual accessibility.
 
@@ -78,7 +78,7 @@ AI-assisted healthcare and emergency response: triage, location-aware routing an
 <tr>
 <td width="50%" valign="top">
 
-### 🪐 [ExoHunter AI](https://github.com/ayushraj623/REPO-NAME)
+### 🪐 ExoHunter AI
 
 ML pipeline that analyzes astronomical light curves to flag possible exoplanet transits.
 
@@ -87,7 +87,7 @@ ML pipeline that analyzes astronomical light curves to flag possible exoplanet t
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [AI Media & Deepfake Forensics](https://github.com/ayushraj623/REPO-NAME)
+### 🛡️ AI Media & Deepfake Forensics
 
 Computer vision project for detecting AI-generated or manipulated media.
 
@@ -103,7 +103,7 @@ Computer vision project for detecting AI-generated or manipulated media.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%"/>
 
 </div>
 
@@ -112,8 +112,8 @@ Computer vision project for detecting AI-generated or manipulated media.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated green contribution graph" width="49%"/>
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal contribution graph" width="49%"/>
+<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/profile-3d-contrib/profile-green-animate.svg" alt="Animated green contribution graph" width="49%"/>
+<img src="https://raw.githubusercontent.com/ayushraj623/ayushraj623/main/profile-3d-contrib/profile-season-animate.svg" alt="Seasonal contribution graph" width="49%"/>
 
 </div>
 </details>
