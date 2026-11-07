@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ayush Raj**, a Computer Science undergraduate who builds intelligent systems that connect software with the physical world
+Hi, I'm **Ayush Raj**, a Computer Science undergraduate who builds intelligent systems that connect software with the physical world.
 
 | | |
 |---|---|
